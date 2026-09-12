@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0239-sliding-window-maximum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0142-linked-list-cycle-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Union-Find
 |  |
 | ------- |
