@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Queue
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Union-Find
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
