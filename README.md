@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -30,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
