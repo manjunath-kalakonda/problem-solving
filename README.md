@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0214-shortest-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0214-shortest-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -130,4 +132,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0836-rectangle-overlap) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
