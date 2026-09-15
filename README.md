@@ -121,8 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0836-rectangle-overlap) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0036-valid-sudoku) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
