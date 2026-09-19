@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/manjunath-kalakonda/problem-solving/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Matrix
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/manjunath-kalakonda/problem-solving/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Rolling Hash
 |  |
 | ------- |
