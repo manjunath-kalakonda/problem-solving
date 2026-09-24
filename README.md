@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manjunath-kalakonda/problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Queue
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/manjunath-kalakonda/problem-solving/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/manjunath-kalakonda/problem-solving/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manjunath-kalakonda/problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
